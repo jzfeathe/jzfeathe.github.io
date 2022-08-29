@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hey, I'm Justin and this is my blog page. I'm not much of a blogger, so this may never turn into more than a school project,
+but who knows?! For now, we'll call it a work in progress...
