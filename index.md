@@ -1,2 +1,3 @@
-Hey, I'm Justin and this is my blog page. I'm not much of a blogger, so this may never turn into more than a school project,
+Hey, I'm Justin and this is my blog page.
+This may never turn into more than a school project,
 but who knows?! For now, we'll call it a work in progress...
