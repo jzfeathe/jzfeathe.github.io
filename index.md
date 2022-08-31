@@ -8,7 +8,7 @@ This what you can expect here:
 + The occasional statistics-related post  
 
 <br>
-<br>
+A little about me:  
 
 Degree Program | Email Address | Location
 ---|---|---
